@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPT_LAB2", "IPT_LAB2\IPT_LAB2.csproj", "{17370190-069D-4748-BE41-4846F4527421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q2_searching", "Q2_searching\Q2_searching.csproj", "{59B28AD0-52C6-4552-8178-EFC3850E1762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3_multithreaded", "Q3_multithreaded\Q3_multithreaded.csproj", "{D0A2EFC7-0691-4951-A0A4-494772CF7869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17370190-069D-4748-BE41-4846F4527421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17370190-069D-4748-BE41-4846F4527421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17370190-069D-4748-BE41-4846F4527421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17370190-069D-4748-BE41-4846F4527421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59B28AD0-52C6-4552-8178-EFC3850E1762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B28AD0-52C6-4552-8178-EFC3850E1762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B28AD0-52C6-4552-8178-EFC3850E1762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B28AD0-52C6-4552-8178-EFC3850E1762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A2EFC7-0691-4951-A0A4-494772CF7869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A2EFC7-0691-4951-A0A4-494772CF7869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A2EFC7-0691-4951-A0A4-494772CF7869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A2EFC7-0691-4951-A0A4-494772CF7869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

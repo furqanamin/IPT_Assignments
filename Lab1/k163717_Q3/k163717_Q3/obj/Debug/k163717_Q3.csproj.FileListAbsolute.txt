@@ -1,0 +1,6 @@
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\obj\Debug\k163717_Q3.csprojResolveAssemblyReference.cache
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\bin\Debug\k163717_Q3.exe.config
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\bin\Debug\k163717_Q3.exe
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\bin\Debug\k163717_Q3.pdb
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\obj\Debug\k163717_Q3.exe
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q3\k163717_Q3\obj\Debug\k163717_Q3.pdb
