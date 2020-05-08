@@ -1,0 +1,40 @@
+﻿Installing assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Rolling back assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Installing assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Installing service XMLReader...
+Service XMLReader has been successfully installed.
+Creating EventLog source XMLReader in log Application...
+Committing assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Uninstalling assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Removing EventLog source XMLReader.
+Service XMLReader is being removed from the system...
+Service XMLReader was successfully removed from the system.
+Uninstalling assembly 'C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.InstallLog
+   assemblypath = C:\Users\Furqan Amin\Documents\Visual Studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+Removing EventLog source XMLReader.
+Warning: The source XMLReader is not registered on the local machine.
+Service XMLReader is being removed from the system...
+Service XMLReader was successfully removed from the system.

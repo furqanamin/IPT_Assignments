@@ -1,0 +1,7 @@
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe.config
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.exe
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\bin\Release\k163717_Q2.pdb
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\obj\Release\k163717_Q2.exe
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\obj\Release\k163717_Q2.pdb
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\obj\Release\k163717_Q2.ProjectInstaller.resources
+c:\users\furqan amin\documents\visual studio 2017\Projects\k163717_Q2\k163717_Q2\obj\Release\k163717_Q2.csproj.GenerateResource.Cache

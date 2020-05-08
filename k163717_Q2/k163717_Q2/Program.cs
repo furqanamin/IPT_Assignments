@@ -14,12 +14,19 @@ namespace k163717_Q2
         /// </summary>
         static void Main()
         {
+#if DEBUG
+            Service1 myServ = new Service1();
+            myServ.OnDebug();
+            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+
+#else
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
                 new Service1()
             };
             ServiceBase.Run(ServicesToRun);
+#endif
         }
     }
 }
