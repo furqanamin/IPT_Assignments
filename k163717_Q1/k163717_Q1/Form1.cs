@@ -107,6 +107,7 @@ namespace k163717_Q1
             {
                 using (XmlTextWriter writer = new XmlTextWriter(sww) { Formatting = Formatting.Indented })
                 {
+                    writer.WriteProcessingInstruction("xml", "version='1.0'");
                     xsSubmit.Serialize(writer, subReq);
                     xml = sww.ToString(); // Your XML
                     File.WriteAllText("PatientDetails" + "_" + DateTime.Now.ToString("yyyy_MM_dd") + ".xml", xml);

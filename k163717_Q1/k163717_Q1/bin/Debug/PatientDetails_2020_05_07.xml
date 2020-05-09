@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0"?>
 <Patients xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Patient name="Zameer" DOB="1994-02-15" gender="Male" email="zameer@akhtar.com">
     <bpm>69</bpm>

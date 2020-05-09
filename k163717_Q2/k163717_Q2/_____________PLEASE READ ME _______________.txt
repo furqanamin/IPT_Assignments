@@ -1,0 +1,1 @@
+Sir My Q2 code seems to break down whenever you pass it an XML file with the attribute encoding = "UTF-16"; I corrected this by passing additional attributes to my XML Writer in Q1, I just added this in case my code break downs with someone else's generated XML files as they might not have corrected their XML Writer.

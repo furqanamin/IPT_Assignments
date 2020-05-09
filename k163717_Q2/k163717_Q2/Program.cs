@@ -15,6 +15,7 @@ namespace k163717_Q2
         static void Main()
         {
 #if DEBUG
+
             Service1 myServ = new Service1();
             myServ.OnDebug();
             System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
